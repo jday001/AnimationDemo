@@ -14,6 +14,6 @@ Tap the edit button to customize any of the four animations. Customizable proper
 ![alt text][editScreen]
 
 
-[mainScreen]: https://github.kdc.capitalone.com/irv363/AnimationDemo/blob/master/screenshots/mainScreen.png
+[mainScreen]: https://github.com/jday001/AnimationDemo/blob/master/screenshots/mainScreen.png
 
-[editScreen]: https://github.kdc.capitalone.com/irv363/AnimationDemo/blob/master/screenshots/editScreen.png
+[editScreen]: https://github.com/jday001/AnimationDemo/blob/master/screenshots/editScreen.png
